@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0048-rotate-image) |
+| [0120-triangle](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0120-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0763-partition-labels) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
