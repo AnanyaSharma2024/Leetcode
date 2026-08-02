@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0048-rotate-image) |
 | [0120-triangle](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0763-partition-labels](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0763-partition-labels) |
 ## Linked List
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
