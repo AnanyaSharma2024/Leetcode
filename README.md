@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0048-rotate-image) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,9 +96,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
