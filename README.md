@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0213-house-robber-ii](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1267-count-servers-that-communicate](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0002-add-two-numbers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
