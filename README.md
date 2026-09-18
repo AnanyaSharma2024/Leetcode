@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0763-partition-labels) |
+| [1143-longest-common-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AnanyaSharma2024/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
